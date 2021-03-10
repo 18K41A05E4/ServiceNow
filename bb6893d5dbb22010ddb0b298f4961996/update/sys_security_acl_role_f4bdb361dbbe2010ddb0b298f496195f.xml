@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:32:45</sys_created_on>
+        <sys_id>f4bdb361dbbe2010ddb0b298f496195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_594700_chatnow_person.x_594700_chatnow.person_user</sys_name>
+        <sys_package display_value="chatNow" source="x_594700_chatnow">bb6893d5dbb22010ddb0b298f4961996</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="chatNow">bb6893d5dbb22010ddb0b298f4961996</sys_scope>
+        <sys_security_acl display_value="x_594700_chatnow_person">78bdb361dbbe2010ddb0b298f496195c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f4bdb361dbbe2010ddb0b298f496195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:32:45</sys_updated_on>
+        <sys_user_role display_value="x_594700_chatnow.person_user" name="x_594700_chatnow.person_user">2cbd7721dbbe2010ddb0b298f4961965</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
